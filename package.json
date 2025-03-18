@@ -1,11 +1,11 @@
 {
-  "name": "poject-vite",
+  "name": "js_113_Lumin228",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-vite/",
+    "build": "vite build --base=/js_113_Lumin228/",
     "preview": "vite preview"
   },
   "devDependencies": {
